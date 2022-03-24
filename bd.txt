@@ -1,0 +1,34 @@
+CATEGORIAS
+===============
+codigo
+nombre
+
+
+CLIENTES
+===========
+codigo
+nombres
+apellidos
+correo electronico
+telefono
+
+
+ENTREGA
+=======
+codigo
+direccion
+distrito
+referencia
+
+
+PROVEEDORES
+=====
+codigo
+razon social
+ruc
+direccion
+correo electronico
+telefono
+
+
+https://www.guidgenerator.com/
